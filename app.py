@@ -23,7 +23,6 @@ def introduction():
         In line with the National Strategy for Financial Inclusion (NSFI) 2022-2028 by Bangko Sentral ng Pilipinas (BSP), this sprint aims to:
         1. Profile financial inclusion (FI) metrics in the Philippines using survey data from World Bank.
         2. Formulate policy recommendations to further improve access to financial services particularly to vulnerable sectors.
-        3. Subheader
         """
     )
 
