@@ -16,7 +16,10 @@ def load_data():
 def introduction():
     # Write the title and the subheader
     st.title(
-        "Towards Financial Inclusion (FI): using survey data to assess FI status of the Philippines - RDG"
+        """
+        Towards Financial Inclusion (FI): using survey data to assess FI status of the Philippines - RDG
+        - Pats was here
+        """
     )
     st.subheader(
         """
